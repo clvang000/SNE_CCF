@@ -6,6 +6,7 @@ import org.apache.lucene.index.MultiFields;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Bits;
+import org.apache.lucene.codecs.lucene70.*;
 
 import java.nio.file.Paths;
 
